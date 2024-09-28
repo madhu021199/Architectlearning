@@ -8,6 +8,8 @@ public class demo {
 		System.out.println("HelloWorld");
 		int a=5;
 		System.out.println(a);
+		int b=10;
+		System.out.println(b);
 	}
 
 }
